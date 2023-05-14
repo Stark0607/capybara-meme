@@ -1,0 +1,15 @@
+html {background-color: black;}
+.meme{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+#title{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: hsla(34, 93%, 18%, 0.681);
+  
+}
